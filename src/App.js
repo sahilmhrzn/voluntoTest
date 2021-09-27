@@ -4,6 +4,8 @@ import { CssBaseline } from '@material-ui/core';
 import Header from './components/Header';
 import Cards from './components/Cards';
 import Events from './components/Events';
+import Form from './components/Form';
+import Footer from './components/Footer';
 
 const useStyles = makeStyles((theme) => ({
   root: {
@@ -23,6 +25,8 @@ export default function App() {
       <Header />
       <Cards />
       <Events />
+      <Form />
+      <Footer />
     </div>
   );
 }
