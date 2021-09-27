@@ -13,7 +13,7 @@ const useStyles = makeStyles((theme) => ({
     backgroundImage: `url(${process.env.PUBLIC_URL + '/assets/children1.jpg'})`,
     backgroundRepeat: 'no-repeat',
     backgroundSize: 'cover',
-    height:'83rem',
+    height:'76rem',
     backgroundAttachment: 'fixed'
   },
 }));
