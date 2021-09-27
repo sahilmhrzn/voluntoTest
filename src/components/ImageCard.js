@@ -16,7 +16,7 @@ const useStyles = makeStyles({
     margin: '20px',
   },
   media: {
-    height: 440,
+    height: 300,
   },
   title: {
     fontFamily: 'Roboto',
